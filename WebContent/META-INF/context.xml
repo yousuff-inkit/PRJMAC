@@ -8,7 +8,7 @@
 			username="root"
 			password="gateway" 
 			driverClassName="com.mysql.jdbc.Driver"
-			url="jdbc:mysql://localhost:3036/mmj"                                
+			url="jdbc:mysql://172.17.0.111:3036/mmj"                                
 			removeAbandonedTimeout="60" 
 			autoReconnect="true"
 			maxTotal="800" 
