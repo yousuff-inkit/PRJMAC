@@ -776,7 +776,14 @@ label.licenceExpiry:hover{
 
  
  <div id="tt" class="easyui-tabs" style="width:100%;height:100%;margin-left:-8px;" >
- 
+  <div title="New Home">
+         <iframe scrolling="auto" frameborder="0" id="frame" src="com/dashboard/dashBoardTiles.jsp" style="width:100%;height:100%;"></iframe>
+     </div>
+
+<div title="New Home 1">
+         <iframe scrolling="auto" frameborder="0" id="frame2" src="com/dashboard/dashboardtiels2.jsp" style="width:100%;height:100%;"></iframe>
+     </div>
+     
  <div title="Home">
 		<iframe scrolling="auto" frameborder="0"  src="com/dashboard/dashBoard.jsp" style="width:100%;height:100%;"></iframe>
 		</div> 
