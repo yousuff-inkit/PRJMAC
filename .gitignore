@@ -1,0 +1,12 @@
+# No src/ in this repo - WebContent/WEB-INF/classes is the only copy of the compiled code,
+# so *.class is deliberately NOT ignored here.
+/build/
+
+# Eclipse / IDE
+.settings/
+.metadata/
+*.launch
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
